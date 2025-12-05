@@ -4,19 +4,21 @@
 
 **About Me**
 
-I'm a developer in training, learning Python and Full Stack development.
+I'm a developer in training, learning Python and Full Stack development.  
 I build projects and improve my skills every day.
 
 **Goals**
 
 - Create clear and useful software.
 - Develop complete projects.
-- Build a solid portafolio.
+- Build a solid portfolio.
 - Grow as an independent developer.
 
-<p align="center"><strong> Learning</strong></p>
+<p align="center"><strong>Learning</strong></p>
 
 <p align="center">
-<img
-src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css">
 </p>
+
+<p align="center"><strong>Contact</strong><br>
+Open a <a href="https://github.com/itsdmn/itsdmn/discussions">Discussion</a> – I'll see it.</p>
